@@ -25,8 +25,8 @@ Para  **ALTER** debemos de saber lo que es un CONSTRAINT y su forma de declarar 
 
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-NOTA #1: Los reporsitorios **Bases de Datos** están hechos con base en el curso de Bases de Datos de la Facultad de Ingeniería de la UNAM. 
+**NOTA #1**: Los reporsitorios **Bases de Datos** están hechos con base en el curso de Bases de Datos de la Facultad de Ingeniería de la UNAM. 
 
-NOTA #2: RENAME y parte de DROP se encuentra en [Alter](https://github.com/BarrigueteHector/Bases-de-Datos-DDL/blob/main/alter.sql).
+**NOTA #2**: RENAME y parte de DROP se encuentra en [Alter](https://github.com/BarrigueteHector/Bases-de-Datos-DDL/blob/main/alter.sql).
 
-NOTA #3: Cabe mencionar que para la creación del usuario solo se ve la parte del CREATE (valga la redundancia), si se desea ver de manera más completa todo el proceso, incluyendo los privilegios, se debe revisar el repoitorio [Usuario y Privilegios](https://github.com/BarrigueteHector/Bases-de-Datos-Oracle-SQL-Usuario-y-pivilegios)
+**NOTA #3**: Cabe mencionar que para la creación del usuario solo se ve la parte del CREATE (valga la redundancia), si se desea ver de manera más completa todo el proceso, incluyendo los privilegios, se debe revisar el repoitorio [Usuario y Privilegios](https://github.com/BarrigueteHector/Bases-de-Datos-Oracle-SQL-Usuario-y-pivilegios)
