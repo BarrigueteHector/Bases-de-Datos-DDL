@@ -20,11 +20,11 @@ En CREATE veremos las estructuras:
 - **VISTAS**: estructura que guarda una consulta. No se ve afectada por cambios futuros que se hagan sobre la tabla con la que se hizo la vista
 - **SEQUENCIAS**: estructura que crea una secuencia de números que se incrementa automáticamente. Ideal si el campo bajo el cual se aplica es la PRIMARY KEY.
 
-Para  **ALTER** debemos de saber lo que es un CONSTRAINT y su forma de declarar al momento de crear la tabla. En caso de no saber como revisar el reposiotiro **CONSTRAINT** ***(En proceso)***
+Para  **ALTER** debemos de saber lo que es un CONSTRAINT y su forma alterna de declarar al momento de crear la tabla. En caso de no saber, revisar el reposiotiro [Constraint](https://github.com/BarrigueteHector/Bases-de-Datos-CONSTRAINT/edit/main/README.md)
 
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-**NOTA #1**: Los reporsitorios **Bases de Datos** están hechos con base en el curso de Bases de Datos de la Facultad de Ingeniería de la UNAM. 
+**NOTA #1**: Los repositorios **Bases de Datos** están hechos con base en el curso de Bases de Datos de la Facultad de Ingeniería de la UNAM. 
 
 **NOTA #2**: RENAME y parte de DROP se encuentra en [ALTER](https://github.com/BarrigueteHector/Bases-de-Datos-DDL/blob/main/alter.sql).
 
